@@ -1,2 +1,2 @@
-# siAiBE
-Backend repository of SiAi project
+# DataTalk
+Backend repository of DataTalk project
